@@ -20,7 +20,7 @@ h1 {
   border: 5px solid green;
   border-style: solid double;
   background-color: antiquewhite;
-} */ 
+} */
 
 /* h3 {
   color: cadetblue;
@@ -32,13 +32,13 @@ h1 {
 
 p {
   color: thistle;
-  text-align: left;  
+  text-align: left;
   font-size: 16px;
   font-family: Helvetica, sans-serif;
 }
 
 img {
-  padding: 25px; 
+  padding: 25px;
   border-radius: 18px;
   max-width: 100%;
   height: auto;
