@@ -20,5 +20,5 @@ function circumference () {
   diameter2 = document.getElementById('input2').value
 
   // Calculates the circumference given the diameter2 variable and sends it to result2 span output to be printed
-  document.getElementById('result2').innerHTML = (Math.round(2 * pi * diameter2 / 2 * 100 / 100).toFixed(2)
-}
+  document.getElementById('result2').innerHTML = (Math.round(2 * pi * diameter2 / 2 * 100) / 100).toFixed(2)
+  }
